@@ -1,0 +1,24 @@
+From 0102cf5cc35a7e759aa039022a55d2323cd580d1 Mon Sep 17 00:00:00 2001
+From: haleema <cutebushra8@gmail.com>
+Date: Mon, 3 Aug 2026 14:21:51 +0530
+Subject: [PATCH] patch file1
+
+---
+ 4    | 0
+ week | 1 +
+ 2 files changed, 1 insertion(+)
+ create mode 100644 4
+
+diff --git a/4 b/4
+new file mode 100644
+index 0000000..e69de29
+diff --git a/week b/week
+index 5978fab..da60ac0 100644
+--- a/week
++++ b/week
+@@ -1 +1,2 @@
+ demo on patch
++applying patch
+-- 
+2.46.1.windows.1
+
